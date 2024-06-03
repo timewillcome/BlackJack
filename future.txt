@@ -1,0 +1,9 @@
+// <--> update struct
+
+//      divide functions' feature into diffrent functions
+// <--> github - git -> create a new repo and put these file in with terminal
+//      testing
+// <--> let contest_creation_price attach to eth current price with 1/100 may be
+// <--> find bugs and fix it
+//      learn how to hack it
+//      catch events
